@@ -27,7 +27,6 @@ function lol() {
     document.getElementById("btn-footer-TO_DO").click()
 }
 ```
-
 # Extra
 
 credit to ArjhanToteck for originally making this and Cupiditys (but they deleted their project/repo)

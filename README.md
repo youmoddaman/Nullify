@@ -9,7 +9,7 @@ I am not the creator of this project, I am constanting updating the program to w
 
 ## How To Use:
 
-- Download the chrome extension by downloading the files
+Download the chrome extension by downloading the files
 Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on (if your school blocks this, see the bookmarklet below) then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good.
 
 ## Bookmarklet

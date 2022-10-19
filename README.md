@@ -10,12 +10,14 @@ Go to "chrome://extensions/", and on the top right make sure "Developer mode" is
 ## Bookmarklet
 
 - A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this:
-    Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
-    Click on more at the bottom left corner
-    Delete everything in the url box
-    Type javascript:
-    Paste in the following code fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vY3VwaWRpdHlzL3Jhdy91cGxvYWQvdjE2MzgzNDExMjEvYm9va21hcmtsZXQuanM=')).then((res) => res.text().then((t) => eval(t))) (this will auto-update)
-Alternatively, you can use this version if the other one is not working for whatever reason (this one will not auto-update)
+- 
+-   Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
+-   Click on more at the bottom left corner
+-    Delete everything in the url box
+-    Type javascript:
+-    Paste in the following code fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vY3VwaWRpdHlzL3Jhdy91cGxvYWQvdjE2MzgzNDExMjEvYm9va21hcmtsZXQuanM=')).then((res) => res.text().then((t) => eval(t))) (this will auto-update)
+-    
+- Alternatively, you can use this version if the other one is not working for whatever reason (this one will not auto-update)
 
 iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a lesson, quiz skipper, and a minutes hack.
 

@@ -27,4 +27,10 @@ Go to "chrome://extensions/", and on the top right make sure "Developer mode" is
 ## How to avoid being AFK-kicked
 
 press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter.
-
+```
+setInterval(lol, 60000)
+function lol() {
+    document.getElementById("btn-footer-MY_PROGRESS").click()
+    document.getElementById("btn-footer-TO_DO").click()
+}
+```

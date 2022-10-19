@@ -19,7 +19,7 @@ Go to "chrome://extensions/", and on the top right make sure "Developer mode" is
 -   Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
 -   Click on more at the bottom left corner
 -    Delete everything in the url box
--     After that is completed, <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">go here</a>and follow what the notepad says.
+-     <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">go here</a>and follow what the notepad says.
 -     (this will make iReady Overload auto-update)
     
 - Alternatively, you can use this version if the other one is not working for whatever reason (this one will not auto-update)

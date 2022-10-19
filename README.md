@@ -19,7 +19,7 @@ Go to "chrome://extensions/", and on the top right make sure "Developer mode" is
 -   Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
 -   Click on more at the bottom left corner
 -    Delete everything in the url box
--     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js">Click here</a> -
+   - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Add%20Tokens.js">Click here</a> -
 -     (this will make iReady Overload auto-update)
     
 - Alternatively, you can use this version if the other one is not working for whatever reason (this one will not auto-update)

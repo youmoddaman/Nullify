@@ -6,13 +6,7 @@ iReady is awful. It's the worst education tool anyone could ever use. I'm fed up
 
 I am not the creator of this project, I am constanting updating the program to work with iReady's code. THIS is a cheat, I am not responsible if iReady sends info to your teachers that you are using this program it is not my fault. credit to ArjhanToteck for originally making this and also cupiditys (but they both deleted their project.) 
 
-
-## How To Use:
-
-Download the chrome extension by downloading the files
-Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on (if your school blocks this, see the bookmarklet below) then unzip chromeExtension.zip and drag the "iReady Overload" folder onto the page and ur good.
-
-## Bookmarklet
+## Bookmarklet/How To Use:
 
 - A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this:
 

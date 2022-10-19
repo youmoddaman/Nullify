@@ -22,7 +22,6 @@ Go to "chrome://extensions/", and on the top right make sure "Developer mode" is
    - <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">Once completed, click here to download and MAKE SURE to follow all the steps.</a> 
     (this will make iReady Overload auto-update)
     
-- Alternatively, you can use this version if the other one is not working for whatever reason (this one will not auto-update)
 
 ## How to avoid being AFK-kicked
 

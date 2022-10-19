@@ -41,4 +41,4 @@ credit to ArjhanToteck for originally making this and Cupiditys (but they delete
 
 also I am not responsible if iReady alerts your account to your teachers and perm bans your iReady account (but this is very unlikely due to the anticheat being really bad). ONLY use this program at your own risk.
 
-I am also updating the program whenever I can to fit iReady anti-cheat to prevent any bans. If you have any problems, issue a ticket in our discord.
+I am also updating the program whenever I can to fit iReady anti-cheat to prevent any bans. If you have any problems, issue a ticket in our discord above.

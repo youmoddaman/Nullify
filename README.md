@@ -13,7 +13,7 @@ I am not the creator of this project, I am constanting updating the program to w
 -   Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
 -   Click on more at the bottom left corner
 -    Delete everything in the url box
-   - <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">Once completed, click here to download and MAKE SURE to follow all the steps.</a> 
+   - <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">Once completed, click here to download and MAKE SURE to copy EVERYTHING for it to work.</a> 
     (this will make iReady Overload auto-update)
     
 

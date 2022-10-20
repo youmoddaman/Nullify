@@ -14,7 +14,7 @@ I am not the creator of this project, I am constanting updating the program to w
 -   Click on more at the bottom left corner
 -    Delete everything in the url box
    - <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">Once completed, click here to download and MAKE SURE to copy EVERYTHING for it to work.</a> 
-    (this will make iReady Overload auto-update)
+    (this will make Nullify auto-update)
     
 
 ## How to avoid being AFK-kicked

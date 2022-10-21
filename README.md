@@ -19,7 +19,7 @@ I am not the creator of this project, I am constanting updating the program to w
 
 ## How to avoid being AFK-kicked
 
-press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter.
+Press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter.
 ```
 setInterval(lol, 60000)
 function lol() {

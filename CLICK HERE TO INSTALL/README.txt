@@ -1,1 +1,24 @@
-javascript:fetch('https://nullify.notplu.repl.co/nullify.js').then(r=>r.text()).then((d)=>eval(d))
+javascript:function getFrameSrc(){open(html5Iframe.src)}function toggleMenu(){'{"showMenu":true}'!==html5Iframe.contentWindow.localStorage.cheats?(html5Iframe.contentWindow.localStorage.cheats='{"showMenu":true}',html5Iframe.contentWindow.document.getElementById("settings-gear").click(),html5Iframe.contentWindow.document.getElementById("cancelBtn").click(),document.getElementById("tm").innerHTML="Disable"):(html5Iframe.contentWindow.localStorage.cheats='{"showMenu":false}',html5Iframe.contentWindow.document.getElementById("settings-gear").click(),html5Iframe.contentWindow.document.getElementById("cancelBtn").click(),setTimeout(function(){html5Iframe.contentWindow.localStorage.clear(),html5Iframe.contentWindow.document.getElementById("settings-gear").click(),html5Iframe.contentWindow.document.getElementById("cancelBtn").click(),document.getElementById("tm").innerHTML="Enable"},1e3))}function dragElement(e){var t=0,n=0,o=0,r=0;function s(e){(e=e||window.event).preventDefault(),o=e.clientX,r=e.clientY,document.onmouseup=i,document.onmousemove=c}function c(s){(s=s||window.event).preventDefault(),t=o-s.clientX,n=r-s.clientY,o=s.clientX,r=s.clientY,e.style.top=e.offsetTop-n+"px",e.style.left=e.offsetLeft-t+"px"}function i(){document.onmouseup=null,document.onmousemove=null}document.getElementById(e.id+"header")?document.getElementById(e.id+"header").onmousedown=s:e.onmousedown=s}const _api={};_api.dev={csidToAnswer(e){console.log(`https://cdn.i-ready.com/instruction/content/reading-comp/lessons/${e}/${e}.json`),html5Iframe.contentWindow.fetch(`https://cdn.i-ready.com/instruction/content/reading-comp/lessons/${e}/${e}.json`,{referrerPolicy:"strict-origin-when-cross-origin",body:null,method:"GET",mode:"no-cors",credentials:"include"}).then(e=>e.json()).then(e=>{if(""===String(_api.dataToAnswers(e,1),_api.dataToAnswers(e,2))){alert("This lesson isnt supported! No answers found >:");return}let t="No answers found! Please report this on the github or on discord",n=String(_api.dataToAnswers(e,1),_api.dataToAnswers(e,2)).split(",");for(let o=0;o<n.length;o++)n[o].split(":")[0]===html5Iframe.contentWindow.com.cainc.ifabric.lessonReport.collectReportData().lessonNavigationData.currentStep?t=n[o].split(":")[1]:console.log(n[o]);alert(t)})}},_api.dataToAnswers=(e,t)=>{function n(e){if("string"!=typeof e)return!1;try{let t=JSON.parse(e),n=Object.prototype.toString.call(t);return"[object Object]"===n||"[object Array]"===n}catch(o){return!1}}let o=[];for(let r in e.screens)for(let s in e.screens[r])if(s.includes("correct")&&!s.includes("incorrect")&&1==t)for(let c in e.screens[r][s])n(JSON.stringify(e.screens[r][s][c]))&&o.push(r+":"+e.screens[r][s][c].answer_text.value);else if(s.includes("part2_stem")&&2==t)for(let i=0;i<e.screens[r][s].part2_answer.length;i++)!0==e.screens[r][s].part2_answer[i].part2_is_correct&&e.screens[r][s].part2_answer[i].tp_t1_part2_answer_text&&o.push(r+":"+e.screens[r][s].part2_answer[i].tp_t1_part2_answer_text.part2_answer_text.value);return o},_api.getAnswers=()=>{_api.dev.csidToAnswer(html5Iframe.src.split("lesson/")[1])};const createElement=e=>document.body.appendChild(document.createElement(e));var UI=createElement("div");UI.innerHTML=`
+	<div style="width:300px; left: 1px; top: 1px; background-color: #282828; color: white; outline: white solid 1px; position:absolute; z-index: 99999;">
+		<h1 style="font-size: 32px;">Nullify</h1>
+		<br>
+		<h3 style="font-size: 25px; font-style: normal !important; color: white !important;">Teacher Menu</h3>
+		<button id='tm' onclick="toggleMenu()">Toggle</button>
+		<br>
+		<br>
+		<h3 style="font-size: 25px; font-style: normal !important; color: white !important;">Get i-frame src</h3>
+		<button onclick="getFrameSrc()">Get i-frame src</button>
+		<br>
+		<br>
+	<h3 style="font-size: 25px; font-style: normal !important; color: white !important;">Get Answers (beta)</h3>
+		<button onclick="_api.getAnswers();">Get</button>
+                <br>
+                <br>
+        <h3 style="font-size: 25px; font-style: normal !important; color: white !important;">Free i-Ready Games</h3>
+		<button onclick="window.open('https://iready-games.notplu.repl.co/', '_blank');">Go to site</button>
+        <h3 style="font-size: 25px; font-style: normal !important; color: white !important;">__________________________</h3>
+		<button onclick="window.open('https://discord.gg/aAVVuVVVcm', '_blank');">Join the Nullify Discord</button>
+	</div>`,dragElement(UI.firstElementChild);
+
+
+

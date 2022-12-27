@@ -1,5 +1,5 @@
 <h1 align="center">Nullify</h1>
-<h3 align="center">One of the BEST up to date iReady hacks.</h3>
+<h3 align="center">One of the BEST up to date iReady mods.</h3>
 <h2 align="center">Discord Support Server: https://discord.gg/gR8r2JBFRT</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 

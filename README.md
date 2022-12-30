@@ -32,4 +32,6 @@ function lol() {
 
 Credit to ArjhanToteck for originally making this and Cupiditys and H and wang (but they deleted their project/repo)
 
+HUGE credit to wang or WangOnTop for creating the lesson and minute skipper
+
 I am also updating the program whenever I can to fit iReady anti-cheat. If you have any problems, issue a ticket in our discord above.

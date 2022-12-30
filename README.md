@@ -1,6 +1,6 @@
 <h1 align="center">Nullify</h1>
-<h3 align="center">One of the BEST up to date iReady mods.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/gR8r2JBFRT</h2>
+<h3 align="center">One of the BEST up to date iReady hacks.</h3>
+<h2 align="center">Discord Support Server: https://discord.gg/rS6mJZ8nbt</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
 iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a lesson, quiz skipper, and a minutes hack.

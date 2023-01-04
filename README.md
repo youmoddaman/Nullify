@@ -1,37 +1,21 @@
 <h1 align="center">Nullify</h1>
-<h3 align="center">One of the BEST up to date iReady hacks.</h3>
-<h2 align="center">Discord Support Server: https://discord.gg/nullify</h2>
+<h3 align="center">The BEST up to date i-Ready hack.</h3>
+<h2 align="center">Nullify Support Discord: https://discord.gg/nullify</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
-iReady is awful. It's the worst education tool anyone could ever use. I'm fed up with being forced to mindlessly watch the result of a greedy corporation that doesn't try in the SLIGHTEST to make their product enjoyable, or even acceptable. This repository is a collection of hacks and a chrome extension that ensures nobody has to suffer through iReady ever again. The current version has a lesson, quiz skipper, and a minutes hack.
+Welcome to Nullify, the ultimate i-Ready hack!
 
-I am not the creator of this project, I am constanting updating the program to work with iReady's code. THIS is a cheat, I am not responsible if iReady sends info to your teachers that you are using this program it is not my fault. credit to ArjhanToteck for originally making this and also cupiditys (but they both deleted their project.) 
+With our powerful tool, you can easily bypass i-Ready's annoying lessons and tests to get the grades you deserve. Simply input the score for the lesson you need to skip and our advanced algorithms will skip it for you!
 
-## Bookmarklet/How To Use:
+But it's not just about cheating – our tool also includes a number of helpful features such as a Game hack that helps you play the i-Ready games free, and a cool easy to use GUI!
 
-- A bookmarklet can be used instead of the chrome extension, incase your school has blocked extentions. To do this:
-
--   Make a bookmark (the star on the right side of the top url/search bar if you are using chrome)
--   Click on more at the bottom left corner
--    Delete everything in the url box
-   - <a href="https://github.com/notplu/iReady-Overload/blob/main/CLICK%20HERE%20TO%20INSTALL/README.txt">Once completed, click here to download and MAKE SURE to copy EVERYTHING for it to work.</a> 
-    (this will make Nullify auto-update)
+Don't waste any more time struggling with i-Ready – join Nullify today and take control of your grades! - AtlasPW
     
 
-## How to avoid being AFK-kicked
-
-Press ctrl + shift + i, press console tab at top and paste the stuff below in and obviously press enter.
-```
-setInterval(lol, 60000)
-function lol() {
-    document.getElementById("btn-footer-MY_PROGRESS").click()
-    document.getElementById("btn-footer-TO_DO").click()
-}
-```
 # Extra
 
-Credit to ArjhanToteck for originally making this and Cupiditys and H and wang (but they deleted their project/repo)
+Credit to ArjhanToteck for originally making this and cupiditys and H and wang (but they deleted their project/repo)
 
 HUGE credit to wang or WangOnTop for creating the lesson and minute skipper
 
-I am also updating the program whenever I can to fit iReady anti-cheat. If you have any problems, issue a ticket in our discord above.
+We are also updating the program whenever we can to fit iReady anti-cheat. If you have any problems, issue a ticket in our discord above.

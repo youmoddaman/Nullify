@@ -11,7 +11,7 @@ So don't waste any more time struggling with i-Ready! Use Nullify today and take
 
 # Extra
 
-Credit to ArjhanToteck for originally making this and cupiditys and H and wang (but they deleted their project/repo)
+Credit to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
 
 HUGE credit to wang or WangOnTop for creating the lesson and minute skipper
 

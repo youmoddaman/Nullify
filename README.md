@@ -3,7 +3,9 @@
 <h2 align="center">Nullify Support Discord: https://discord.gg/JWYwnbrMKH</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
-![](https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png)
+<p align="center">
+  <img width="460" height="300" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
+</p>
 
 Welcome to Nullify, the best i-Ready hack!
 

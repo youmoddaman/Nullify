@@ -7,6 +7,7 @@
   <img width="212" height="212" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
 </p>
 
+<p align="center">
 Welcome to Nullify, the best i-Ready hack!
 
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.
@@ -18,3 +19,4 @@ Credit to ArjhanToteck, cupiditys, H and wang for originally making this (but th
 HUGE credit to wang or WangOnTop for creating the lesson and minute skipper
 
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
+</p>

@@ -3,11 +3,11 @@
 <h2 align="center">Nullify Support Discord: https://discord.gg/JWYwnbrMKH</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
-Welcome to Nullify, the ultimate i-Ready hack!
+![](https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png)
 
-With our powerful tool, you can easily bypass i-Ready's annoying lessons and tests to get the grades you deserve.
+Welcome to Nullify, the best i-Ready hack!
 
-So don't waste any more time struggling with i-Ready! Use Nullify today and take control of your grades!
+With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.
 
 # Extra
 

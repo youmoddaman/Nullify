@@ -4,7 +4,7 @@
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
 <p align="center">
-  <img width="460" height="300" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
+  <img width="212" height="212" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
 </p>
 
 Welcome to Nullify, the best i-Ready hack!

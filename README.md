@@ -9,14 +9,24 @@
 
 <p align="center">
 Welcome to Nullify, the best i-Ready hack!
+</p>
 
+<align="center">
 With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.
+</p>
 
-# Extra
+<align="center">
+# Misc.
+</p>
 
-Credit to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
+<align="center">
+Credits to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
+</p>
 
-HUGE credit to wang or WangOnTop for creating the lesson and minute skipper
+<align="center">
+HUGE credit to WangOnTop for creating the Lesson Skipper and Minutes Farmer. This hack wouldn't be as great as it is without his help.
+</p>
 
+<align="center">
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
 </p>

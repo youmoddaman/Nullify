@@ -1,4 +1,5 @@
 <h1 align="center">Nullify</h1>
+By wang-fr, notplu, TonicGaro, flowingsalt, and Uveltt
 <h3 align="center">The BEST i-Ready hack.</h3>
 <h2 align="center">Nullify Support Discord: https://discord.gg/JWYwnbrMKH</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>

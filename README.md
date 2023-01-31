@@ -19,9 +19,9 @@ With this hack you can completely remove the stress and torture that comes with 
 
 Credits to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
 
-HUGE credit to wang-fr for creating the Lesson Skipper and Minutes Farmer. This hack wouldn't be as great as it is without his help.
+HUGE credit to wang-fr for creating the Lesson Skipper and Min Farmer. This hack wouldn't be as great as it is without his help.
 
-Credits to notplu and [AtlasPW](https://github.com/AltasPW) for helping on making the Minutes Viewer.
+Credits to notplu and [AtlasPW](https://github.com/AltasPW) for helping on making the Min Viewer.
 
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
 </p>

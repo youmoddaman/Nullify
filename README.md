@@ -1,7 +1,7 @@
 <h1 align="center">Nullify</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
 <p align="center">
-By [wang-fr](https://github.com/wang-fr), [notplu](https://github.com/notplu), [TonicGaro](https://github.com/TonicGaro), [flowingsalt](https://github.com/flowingsalt), and [Uveltt](https://github.com/Uveltt)
+By [wang-fr](https://github.com/wang-fr) [notplu](https://github.com/notplu) [TonicGaro](https://github.com/TonicGaro) [flowingsalt](https://github.com/flowingsalt) and [Uveltt](https://github.com/Uveltt)
 </p>
 <h2 align="center">Nullify Support Discord: https://discord.gg/JWYwnbrMKH</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
@@ -21,7 +21,7 @@ Credits to ArjhanToteck, cupiditys, H and wang for originally making this (but t
 
 HUGE credit to wang-fr for creating the Lesson Skipper and Minutes Farmer. This hack wouldn't be as great as it is without his help.
 
-Credits to [AtlasPW](https://github.com/AltasPW) for helping on making the Minutes Viewer.
+Credits to notplu and [AtlasPW](https://github.com/AltasPW) for helping on making the Minutes Viewer.
 
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
 </p>

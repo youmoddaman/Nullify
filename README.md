@@ -25,3 +25,5 @@ Credits to notplu and [AtlasPW](https://github.com/AltasPW) for helping on makin
 
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
 </p>
+
+Nullify is under a GNU General Public License. Learn more [here](https://raw.githubusercontent.com/notplu/Nullify/main/LICENCE).

@@ -23,6 +23,4 @@ HUGE credit to wang-fr for creating the Lesson Skipper and Min Farmer. This hack
 
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
 
-If you want to fork Nullify go [here](https://github.com/TonicGaro/TonicGaro/tree/main/NullifyData) for source code. Source code isn't on this repo to bypass school blocks.
-
 Nullify is under the GNU General Public License v3.0. Learn more [here](https://raw.githubusercontent.com/notplu/Nullify/main/LICENSE).

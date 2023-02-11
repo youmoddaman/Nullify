@@ -19,7 +19,7 @@ With this hack you can completely remove the stress and torture that comes with 
 
 Credits to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
 
-HUGE credit to wang-fr for creating the Lesson Skipper and Min Farmer. This hack wouldn't be as great as it is without his help.
+HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without his help.
 
 If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
 

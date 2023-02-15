@@ -3,7 +3,7 @@
 <p align="center">
 By wang-fr, notplu, TonicGaro, flowingsalt, and Uveltt
 </p>
-<h2 align="center">Nullify Support Discord: https://discord.gg/MnBGmdcsDg</h2>
+<h2 align="center">Nullify Support Discord: https://discord.gg/bqcCtZTJ5a</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
 <p align="center">

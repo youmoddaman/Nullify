@@ -24,4 +24,4 @@ javascript:fetch('https://raw.githubusercontent.com/notplu/Nullify/main/Data/mai
 <p align="center">
 Credits to ArjhanToteck, cupiditys, H and wang for originally making this, (but they deleted their project/repo).<br><br>
 HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without his help.<br><br>
-Nullify is under the GNU General Public License v3.0. Learn more [here](https://raw.githubusercontent.com/notplu/Nullify/main/LICENSE).
+Nullify is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>

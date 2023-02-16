@@ -1,26 +1,27 @@
 <h1 align="center">Nullify</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
-<p align="center">
-By wang-fr, notplu, TonicGaro, flowingsalt, and Uveltt
-</p>
-<h2 align="center">Nullify Support Discord: https://discord.gg/bqcCtZTJ5a</h2>
-<h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
+<h2 align="center"><a href="https://discord.gg/UHYAnP7wrW">Nullify Discord</a></h2>
 
 <p align="center">
 <img width="212" height="212" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
 </p>
 
 <p align="center">
-Welcome to Nullify, the best i-Ready hack!
+Welcome to Nullify, the best i-Ready hack!<br><br>
+With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.</p>
 
-With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.
+<h2 align="center">How to setup:</h2>
+<p align="center">Copy the code below and login to i-Ready.<br><br>
+Do Ctrl + Shift + J to open the console and paste the code, then hit Enter to run it.<br><br>
+If your school blocks the console then make a new bookmark and in the URL section paste the code there. Click the bookmark anytime to run the code.</p>
 
-# Misc.
+```js
+javascript:fetch('https://raw.githubusercontent.com/notplu/Nullify/main/Data/main.js').then(r => r.text()).then(r => eval(r))
+```
 
-Credits to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
+<h2 align="center">Misc</h2>
 
-HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without his help.
-
-If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
-
+<p align="center">
+Credits to ArjhanToteck, cupiditys, H and wang for originally making this, (but they deleted their project/repo).<br><br>
+HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without his help.<br><br>
 Nullify is under the GNU General Public License v3.0. Learn more [here](https://raw.githubusercontent.com/notplu/Nullify/main/LICENSE).

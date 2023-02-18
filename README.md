@@ -1,6 +1,6 @@
 <h1 align="center">Nullify</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
-<p align="center">By <a href="https://github.com/wang-fr">wang-fr</a>, <a href="https://github.com/proxyplu">proxyplu</a>, <a href="https://github.com/TonicGaro">TonicGaro</a>, <a href="https://github.com/flowingsalt">flowingsalt</a>.
+<p align="center">By <a href="https://github.com/wang-fr">wang-fr</a>, <a href="https://github.com/proxyplu">proxyplu</a>, <a href="https://github.com/TonicGaro">TonicGaro</a>, and <a href="https://github.com/flowingsalt">flowingsalt</a>.
 <h2 align="center"><a href="https://discord.gg/UHYAnP7wrW">Nullify Discord</a></h2>
 
 <p align="center">
@@ -24,5 +24,5 @@ javascript:fetch('https://raw.githubusercontent.com/proxyplu/Nullify/main/Data/m
 
 <p align="center">
 Credits to ArjhanToteck, cupiditys, and wang for originally making this, (but some deleted their project/repo).<br><br>
-HUGE credit to wang-fr for creating the Lesson Skipper. This hack wouldn't be as great as it is without his help.<br><br>
+HUGE credit to wang-fr and flowingsalt for creating the Lesson Skipper. This hack wouldn't be as great as it is without their help.<br><br>
 Nullify is under the GNU General Public License v3.0. Learn more <a href="https://github.com/notplu/Nullify/blob/main/LICENSE">here</a>.</p>

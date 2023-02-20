@@ -2,6 +2,7 @@
 <h3 align="center">The BEST i-Ready hack.</h3>
 <p align="center">By <a href="https://github.com/wang-fr">wang-fr</a>, <a href="https://github.com/proxyplu">proxyplu</a>, <a href="https://github.com/TonicGaro">TonicGaro</a>, and <a href="https://github.com/flowingsalt">flowingsalt</a>.
 <h2 align="center"><a href="https://discord.gg/nullify">Nullify Discord</a></h2>
+
 [![Build status](https://github.com/proxyplu/Nullify/actions/workflows/ci.yml/badge.svg?branch=master&event=push)](https://github.com/proxyplu/Nullify/tree/main/Data)
 [![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)](https://github.com/proxyplu/Nullify/releases/latest)
 [![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu/badge)](https://www.codefactor.io/repository/github/ppy/osu)
